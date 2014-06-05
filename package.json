@@ -1,0 +1,13 @@
+{
+  "name": "restler-catbox-cache",
+  "description": "Restler Caching with Catbox",
+  "version": "0.0.1",
+  "author": {
+    "name": "Andrew Gilmore",
+    "email": "andrew.gilmore@electricwordplc.com"
+  },
+  "main": "index",
+  "dependencies": {
+    "catbox": "2.2.1"
+  }
+}
